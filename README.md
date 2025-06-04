@@ -1,0 +1,6 @@
+Initiate an emacs setup for an org mod within the W-project. A Wert is a node with a title. Its Wertigkeit or valence structure is the organization and choice of values within the Wert node. The purpose of this repo is to assemble tools for creating and processing Werte, which is the correct term for nodes: a value is already in the process and has been set, while a wert retains the awareness of either inherency (eternal recurrence) and/or dynamic evolution. The purpose of the Werte Projekt is to discover the eternal and increase consciousness regarding the inevitable outcomes which come from our values.
+
+The first project is to set up a few tools:
+- node creation names the wert and creates a file, placing it in the master folder
+- wert-acquisition names a file in the master folder and places it as a link to a node at the heading level.
+- wert-occupancy/valence-setting feeds a value node into a function which pre-processes it, then there are options for its activation state, after filling out the options the data is embedded at that node level.
